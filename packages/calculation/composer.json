@@ -1,0 +1,12 @@
+{
+    "name": "ridoy/calcpackage",
+    "description": "personal package building",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ridoy\\Calcpackage\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}

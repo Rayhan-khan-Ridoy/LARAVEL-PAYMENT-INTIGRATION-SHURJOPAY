@@ -166,6 +166,7 @@ return [
          * adding shujopay Service Providers...
          */
         shurjopayv2\ShurjopayLaravelPackage8\ShurjopayServiceProvider::class,
+        Ridoy\Calcpackage\CalcServiceProvider::class,
 
         /*
          * Application Service Providers...
