@@ -8,5 +8,13 @@
         }
     },
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Ridoy\\Calcpackage\\CalcServiceProvider"
+            ]
+
+        }
+    }
 }
